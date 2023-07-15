@@ -1,0 +1,8 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font: italic;
+    text-align: center;
+    background-position: flex; 
+    background-color:green;
+}
